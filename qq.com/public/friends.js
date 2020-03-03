@@ -1,0 +1,2 @@
+window[`{{xxx}}`] ({{data}});
+
