@@ -20,7 +20,7 @@ function jsonp(url) {
 }
 
 //调用jsonp函数
-jsonp("http://localhost:8888/friends.json").then(x => {
+jsonp("http://localhost:8888/friends.js").then(x => {
   console.log(x);
 });
 //CORS
